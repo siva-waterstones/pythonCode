@@ -1,0 +1,2 @@
+user_details={'Name':'Sivaananth','Age':43,'Sex':'Male','City':'Chennai','Country':'India'}
+print(user_details['Name'])
